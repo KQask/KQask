@@ -32,11 +32,3 @@
 ###
 
 <p align="left">Hey there, I am currently pursuing a Computer Engineering degree and have a passion in developing kernel drivers, and anything that involves low level system development. <br><br>Veni, vidi, vici - Julius Caesar</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KQask/KQask/output/snake.svg" alt="Snake animation" />
-
-###
